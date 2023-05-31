@@ -1,0 +1,9 @@
+* secret-values
+
+A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/rotatef/secret-values.git |
+| commit  | 72996c0                                          |
+| systems | secret-values                                    |
+|---------+--------------------------------------------------|
