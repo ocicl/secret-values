@@ -7,4 +7,4 @@ A Common Lisp library to reduce the risk of accidentally revealing secret values
 | commit  | 72996c0                                          |
 | systems | secret-values                                    |
 |---------+--------------------------------------------------|
- 
+  
